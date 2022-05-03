@@ -1,0 +1,6 @@
+# files
+go.mod
+go.sum
+
+# folder
+db/**
